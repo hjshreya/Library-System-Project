@@ -1,6 +1,6 @@
 # Library Management System
 
-The Library Management System is a Python-based command-line application designed to streamline library operations. It utilizes object-oriented programming (OOP) principles to manage books, users, and borrowing activities efficiently.
+The Library Management System is a system designed to streamline library operations. It utilizes object-oriented programming (OOP) principles to manage books, users, and borrowing activities efficiently.
 
 ## Overview
 
